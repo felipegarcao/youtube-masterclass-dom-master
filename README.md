@@ -9,7 +9,7 @@
 
 
 
-<br>
+
 ## Description in English
 ### I participated in a Rocketseat MasterClass, which was about DOM (Document Object Model) manipulation with JavaScript, from scratch, in practice 
 <br>
