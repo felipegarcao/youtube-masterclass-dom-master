@@ -1,7 +1,10 @@
 # Piano Com Sons
 
 ## Descrição em PT-BR
-<h3>Participei de um MasterClass da Rocketseat, que foi sobre a Manipulação do DOM (Document Object Model) com JavaScript, do zero, na prática</h3>
+### Participei de um MasterClass da Rocketseat, que foi sobre a Manipulação do DOM (Document Object Model) com JavaScript, do zero, na prática
+
+
+![Screenshot_1](https://user-images.githubusercontent.com/78617974/113496605-b757ea80-94d1-11eb-8dc9-aacb9b747274.jpg)
 
 
 
