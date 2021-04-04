@@ -22,5 +22,5 @@
 4. addEventLister, click, keydown
 5. application of ! for denial
 6. repetition structure
-7. youtube-masterclass-dom-master
+
 
